@@ -1,3 +1,2 @@
 from random import randint 
-def random():
-    print(randint (1-100))
+print(randint(1,100)+randint(1,100))
